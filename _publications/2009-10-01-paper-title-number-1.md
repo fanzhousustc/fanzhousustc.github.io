@@ -2,14 +2,15 @@
 title: "Y2O3 nanoparticles decorated IN738LC superalloy manufactured by laser powder bed fusion: Cracking inhibition, microstructures and mechanical properties"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Abstract: In-situ Y2O3 nanoparticles decorated Inconel 738 LC composite by powder mixture is fabricated using laser powder bed fusion with different scan speeds and laser powers. The process window is significantly enlarged with the addition of 0.05 wt% Y2O3 by removing the cracks in the as-printed parts. Well-dispersed Y4Al2O9 particles are formed during the reaction between the mixed powders and the laser beam. Obvious enrichment of Zr in the Y4Al2O9 particles by substitution for the yttrium is observed, which effectively eliminates the segregation of Zr along the grain boundaries. In this case, the cracks are mitigated since the formation of liquid film is correspondingly hindered at the last stage of solidification. In addition, the gains are coarsened to nearly double the size with the incorporation of Y2O3 nanoparticles before and after heat treatment. As a result, the Y2O3-inoculated Inconel 738 LC exhibits an improved strength at 850 °C.'
+excerpt: 'Contribution: Microstructure characterization'
 date: 2021-12-06
 venue: 'Composites Part B: Engineering'
 paperurl: 'https://doi.org/10.1016/j.compositesb.2021.109555'
 #citation: 'Fan Zhou, You. (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+Abstract: In-situ Y2O3 nanoparticles decorated Inconel 738 LC composite by powder mixture is fabricated using laser powder bed fusion with different scan speeds and laser powers. The process window is significantly enlarged with the addition of 0.05 wt% Y2O3 by removing the cracks in the as-printed parts. Well-dispersed Y4Al2O9 particles are formed during the reaction between the mixed powders and the laser beam. Obvious enrichment of Zr in the Y4Al2O9 particles by substitution for the yttrium is observed, which effectively eliminates the segregation of Zr along the grain boundaries. In this case, the cracks are mitigated since the formation of liquid film is correspondingly hindered at the last stage of solidification. In addition, the gains are coarsened to nearly double the size with the incorporation of Y2O3 nanoparticles before and after heat treatment. As a result, the Y2O3-inoculated Inconel 738 LC exhibits an improved strength at 850 °C.
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://www.researchgate.net/publication/356803033_Y2O3_nanoparticles_decorated_IN738LC_superalloy_manufactured_by_laser_powder_bed_fusion_Cracking_inhibition_microstructures_and_mechanical_properties)
 
-#Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+# Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
